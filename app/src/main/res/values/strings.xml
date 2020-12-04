@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PriceTag</string>
+    <string name="title_Keyword">Search</string>
+    <string name="title_Image">Image Search</string>
+    <string name="title_Wishlist">Wishlist</string>
+    <string name="title_Myaccount">My Account</string>
+</resources>

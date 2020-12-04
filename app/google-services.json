@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "639605224481",
+    "firebase_url": "https://pricetag-75897.firebaseio.com",
+    "project_id": "pricetag-75897",
+    "storage_bucket": "pricetag-75897.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639605224481:android:b8bc4fed6f083e1a715f60",
+        "android_client_info": {
+          "package_name": "com.example.pricetag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639605224481-2lp25suq5pko8u07rsde5tnce553mpd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKOywg9BeJRk8TnHGBkZXDKBLrxoq4YX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639605224481-2lp25suq5pko8u07rsde5tnce553mpd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
